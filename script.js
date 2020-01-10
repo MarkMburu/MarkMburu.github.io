@@ -24,7 +24,7 @@ function toggleMenu() {
 
 function handleIconClick() {
   $('#email').on('click', function() {
-    $('.displayInfo').html(`<h2>cgreffly@gmail.com</h2>`);
+    $('.displayInfo').html(`<h2>markmburu685@gmail.com</h2>`);
   });
 }
 
